@@ -1,5 +1,5 @@
 ##    Url proyecto
-`https://vercel.com/machick/primer-ejercicio`
+https://vercel.com/machick/primer-ejercicio
 ### Correr con npm 
 `npm install`
 
