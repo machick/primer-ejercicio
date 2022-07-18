@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { useArticlesContext } from "../../context";
+import { useArticlesContext } from "../../context/context";
 export default function TopTags() { 
     const {state} = useArticlesContext();
     const articles = state.articles;

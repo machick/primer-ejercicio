@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import moment from 'moment';
-import { useArticlesContext } from "../../context";
+import { useArticlesContext } from "../../context/context";
 
 export default function Articles() {
     const {state} = useArticlesContext();

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import getArticlesFromApi from '../../services/articles';
-import { useArticlesContext } from '../../context';
+import { useArticlesContext } from '../../context/context';
 import TopTags from './top-tags';
 import Articles from './articles';
 
